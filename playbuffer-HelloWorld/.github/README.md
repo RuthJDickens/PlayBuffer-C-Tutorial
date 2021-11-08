@@ -20,43 +20,9 @@ The PlayBuffer tutorial assets are derived from the original Spyder™ game by S
 
 <p align="center"> <img src="/.github/images/machine.png"> </p>
 
-![](/.github/images/getting_started_title.png)
-
-## What will you need?
-- A Windows-based PC (age and performance isn't too critical)
-- A free copy of the "Community Edition" of Visual Studio (click Download)
-
-[![](/.github/images/download.png)](https://visualstudio.microsoft.com/vs/)
-[![](/.github/images/video.png)](https://youtu.be/MBYlFTnvMAI)
-
-## C++ Game Development Taster Workshop
-The Sheffield Women in Computer Science (SWiCS) Society helped to organise some of the first workshops using the PlayBuffer and students from those workshops have helped to deliver an online taster session aimed at A-Level students. 
-
-[![](/.github/images/download.png)](https://github.com/sumo-digital-academy/playbuffer/archive/refs/heads/SkyHighSpy.zip)
-[![](/.github/images/video.png)](https://www.youtube.com/watch?v=XDCN9lRVz3A)
-
 ## From "Hello World!" to Spy Wire
 
 It's traditional for programming tutorials to begin by displaying "Hello World!" to the screen. This project is a useful starting point for any PlayBuffer application, but also includes a pdf manual which will take you from Hello World to your first complete shoot-'em-up game!
-
-[![](/.github/images/playbuffer_manual.png)](https://github.com/sumo-digital-academy/playbuffer/blob/HelloWorld/PlayBuffer%20Manual.pdf)
-
-[![](/.github/images/download.png)](https://github.com/sumo-digital-academy/playbuffer/archive/refs/heads/HelloWorld.zip)
-[![](/.github/images/manual.png)](https://github.com/sumo-digital-academy/playbuffer/blob/HelloWorld/PlayBuffer%20Manual.pdf)
-
-
-
-![](/.github/images/next_steps_title.png)
-
-## Example Projects
-The other branches on the PlayBuffer repo are all different projects branched from the basic Hello World example. You can select a different branch from the dropdown in the top left corner of the main project page (where it currently says HelloWorld).
-
-<p align="center"> <img src="/.github/images/RocketRotateLoop.gif"> </p>
-
-## Error Reporting
-If you find any problems with the PlayBuffer framework then please report them to academy@sumo-digital.com
-
-![](/.github/images/faq_title.png)
 
 * **Can I make a game using the PlayBuffer and sell/distribute the executable?**
 
